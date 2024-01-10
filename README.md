@@ -1,0 +1,2 @@
+# CNN_brain_tumor_classification
+educational project
